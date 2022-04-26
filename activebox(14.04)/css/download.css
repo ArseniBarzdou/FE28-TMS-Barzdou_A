@@ -1,0 +1,52 @@
+
+.download-title {
+    text-transform: uppercase;
+    color: #050202;
+    font-family: "Raleway";
+    font-size: 36px; 
+    font-weight: 400;   
+    text-align: center;
+    line-height: 42px;
+    z-index: 1;
+    padding-bottom: 50px;
+    
+
+}
+
+.download-text {
+    font-family: "Open Sans";
+    font-weight: 400;
+    /* font-style: normal; */
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    margin-bottom: 57px;
+}
+
+.box-link {
+    display: block;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+    /* margin: 10px auto 0; */
+    box-sizing: border-box;
+    border: 1px solid #FFFFFF;
+    width: 370px;
+    
+    
+}
+
+a:hover {
+    background-color: #FFFFFF;
+    transition: 0.3s;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 38px;
+    color: #000000;
+}

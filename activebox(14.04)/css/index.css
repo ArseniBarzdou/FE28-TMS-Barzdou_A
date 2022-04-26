@@ -1,0 +1,45 @@
+
+@import url("../css/sdn.css");
+@import url("../css/header.css");
+@import url("../css/featches.css");
+@import url("../css/workers.css");
+@import url("../css/download.css");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+html {
+    font-family: 'Raleway';
+    font-size: 14px;
+}
+.container {
+    max-width: 1170px; 
+    padding: 0 15px 0;
+    margin: auto;
+    position: relative;
+    z-index: 1000;
+    text-decoration: none;
+
+}
+
+section {
+    padding: 40px 0;
+}
+
+
+.title {
+    font-family: "Raleway";
+    font-size: 36px; 
+    font-weight: 400;
+    color: #212121;  
+    margin: 35px;
+    text-align: center;
+}
+
+.pricing { 
+    background-color: #F5F5F5;
+    box-sizing: border-box;
+}
