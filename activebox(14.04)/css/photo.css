@@ -1,0 +1,14 @@
+/* .row {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+
+.col-left img {
+    height: 25%;
+    width: 25%;
+}
+.col-right img {
+    height: 25%;
+    width: 25%;
+}
